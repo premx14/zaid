@@ -16,11 +16,11 @@ const logger = {
 };
 
 // Configuration - TWO OWNERS (MAIN OWNER + SECOND OWNER)
-const BOT_TOKEN = "7833338001:AAFbfDMk96V2ZyC3beOc0bwAkxZkM";
+const BOT_TOKEN = "7494121476:AAGanf-fmAsltTxJ_LysVPRB5GhHSXu6kD0";
 const YML_FILE_PATH = ".github/workflows/main.yml";
 const BINARY_FILE_NAME = "soul";
-const ADMIN_IDS = [1817896911, 7733336238];  // Yeh dono ID owners hain
-const MAIN_OWNER_ID = 1817896911;  // Main owner ki ID
+const ADMIN_IDS = [7532031796];  // Yeh dono ID owners hain
+const MAIN_OWNER_ID = 7532031796;  // Main owner ki ID
 
 // Load additional admins from JSON
 function loadAdmins() {
